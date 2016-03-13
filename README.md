@@ -1,2 +1,2 @@
 # snoopy
-About snoopy
+Changing snoopy takes time. It does.
